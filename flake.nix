@@ -22,7 +22,7 @@
           ];
           shellHook = ''
             echo "Welcome to Rust on ${system}!"
-            zsh
+            
           '';
         };
       }
